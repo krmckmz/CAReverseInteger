@@ -1,0 +1,15 @@
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\bin\Debug\net6.0\CAReverseInteger.exe
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\bin\Debug\net6.0\CAReverseInteger.deps.json
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\bin\Debug\net6.0\CAReverseInteger.runtimeconfig.json
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\bin\Debug\net6.0\CAReverseInteger.dll
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\bin\Debug\net6.0\CAReverseInteger.pdb
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.csproj.AssemblyReference.cache
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.AssemblyInfoInputs.cache
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.AssemblyInfo.cs
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.dll
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\refint\CAReverseInteger.dll
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.pdb
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\CAReverseInteger.genruntimeconfig.cache
+C:\Users\cagda\Desktop\CAReverseInteger\CAReverseInteger\obj\Debug\net6.0\ref\CAReverseInteger.dll
